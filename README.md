@@ -1,1 +1,3 @@
-# mimicknet_mobile
+# Mimicknet Mobile
+
+Pending publication for release
